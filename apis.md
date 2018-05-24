@@ -1,17 +1,14 @@
 ---
 name: Aria Systems
 x-slug: aria-systems
-description: Aria provides a cloud-based monetization platform for subscription- and
-  usage-based businesses. Aria removes billing bottlenecks and allows companies to
-  rapidly introduce and evolve their offerings, bundles, and promotions. Only Aria
-  provides speed and agility at scale in the cloud, delivers actionable customer insights,
-  and empowers business users with direct control to better monetize their offerings.
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aria-systems-color-logo-top.svg
+description: Maximize your recurring revenues with a leading subscription billing
+  software that specializes in enterprise commerce. Learn more about Aria Systems!
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2717-aria-systems.jpg
 x-kinRank: "8"
-x-alexaRank: ""
+x-alexaRank: "684231"
 tags: Aria Systems
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/aria-systems/master/_listings/aria-systems/apis.md
 specificationVersion: "0.14"
 apis: []
@@ -21,7 +18,19 @@ x-common:
 - type: x-blog-rss
   url: http://www.ariasystems.com/blog/feed/
 - type: x-crunchbase
+  url: https://crunchbase.com/organization/aria-systems
+- type: x-crunchbase
   url: http://www.crunchbase.com/company/aria-systems
+- type: x-email
+  url: sales@ariasystems.com
+- type: x-email
+  url: legal@ariasystems.com
+- type: x-email
+  url: customersupport@ariasystems.com
+- type: x-email
+  url: partners@ariasystems.com
+- type: x-email
+  url: info@ariasystems.com
 - type: x-twitter
   url: https://twitter.com/ariasystemsinc
 - type: x-website
